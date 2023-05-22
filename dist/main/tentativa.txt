@@ -1,0 +1,10 @@
+"Dear {name},
+
+I hope this email finds you well. I came across the job opening at your company and I am extremely interested in the opportunity. My skills and experience align well with the requirements for the position and I am confident that I would be a great fit for the team.
+
+I would be grateful for the chance to interview for the position and further discuss how I can contribute to your organization. Please let me know if this is possible and a convenient time for you. I look forward to hearing from you soon.
+
+Thank you for your time and consideration.
+
+Sincerely,
+[Your Name]"
